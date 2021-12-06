@@ -1,0 +1,112 @@
+body{
+    background-image: url("images/bg-pattern-top-desktop.svg");
+}
+.wrapper{
+    margin: 6rem;
+}
+/* Upper Part of The Page */
+.upperpage{
+    display: flex;
+}
+.rating{
+    font-family: 'Spartan', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: hsl(300, 43%, 22%);
+
+}
+.extra{
+    padding-left: 32rem;
+
+}
+.reviews{
+    background-color:hsl(300, 24%, 96%);
+    padding: 0.7rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    margin-right: 5rem;
+}
+.reportguy{
+    background-color:hsl(300, 24%, 96%);
+    padding: 0.7rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+.besttech{
+    background-color:hsl(300, 24%, 96%);
+    padding: 0.7rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    margin-left: 6rem;
+}
+.header {
+    font-family: 'Spartan', sans-serif;
+    color: hsl(300, 43%, 22%);
+    font-weight: 700;
+}
+.recommendations {
+    font-family: 'Spartan', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(303, 10%, 41%);
+}
+
+/* Lower Part Of The Site*/
+
+.lower{
+    margin-top: 1rem;
+    display: flex;
+}
+.propic{
+    border-radius: 100%;
+}
+.name{
+    color: white;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+.verified{
+    color: hsl(333, 80%, 67%);
+    font-family: 'Spartan', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+.testimony{
+    color: white;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+.smith{
+    background-color: hsl(300, 43%, 22%);
+    border-radius: .7rem;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-right: 1.5rem;
+    margin-bottom: 3rem;
+}
+.roberts{
+    background-color: hsl(300, 43%, 22%);
+    border-radius: .7rem;
+    padding: 1rem;
+    margin-top: 2rem;
+    margin-right: 1.5rem;
+    margin-bottom: 2rem;
+}
+.wallace{
+    background-color: hsl(300, 43%, 22%);
+    border-radius: .7rem;
+    padding: 1rem;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
